@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Indicador de Batería</string>
+
+    <string name="battery_level_text">%d%%</string>
+    <string name="battery_status">Carga actual %d%%</string>
+    <string name="battery_temperature">Temperatura %.1f°C</string>
+
+</resources>
